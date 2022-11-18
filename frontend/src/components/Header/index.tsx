@@ -1,4 +1,5 @@
-import './style.css'
+import './style.css';
+
 function Header() {
     return (
         <header>
@@ -15,4 +16,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
